@@ -301,9 +301,9 @@ Provides evidence of the successful connectivity test.
 
 ![Screenshot 5](Network%20connectivity%20verification.jpeg)
 
-### 📸 Screenshot 6: Kali Linux System Updates
+### 📸 Screenshot 6: NAT Network Configuration
 
-Demonstrates the system update process.
+Shows the NAT Network configuration used to provide network connectivity to the Kali Linux virtual machine.
 
 ![Screenshot 6](Nat%20network.jpeg)
 
@@ -420,13 +420,12 @@ This project represents an important step toward building a practical cybersecur
 
 ## 👩🏽‍💻 AUTHOR
 
-**Cybersecurity Student**
+**Kacia A Rowe**
 
-GitHub: [izzatiayb2106](https://github.com/izzatiayb2106)
+### 🔗 Connect With Me
 
-Project Repository: [CYBERSECURITY LAB SETUP](https://github.com/izzatiayb2106/NETWORKWALKS-B083-WK1-PM1-CYBERSECURITY-LAB-SETUP)
+- **LinkedIn:** [Kacia Rowe](https://www.linkedin.com/in/kacia-rowe-62a9b3349/)
 
----
 
 ![GitHub](https://img.shields.io/badge/Hosted_on-GitHub-181717?style=for-the-badge&logo=github)
 ![Cybersecurity](https://img.shields.io/badge/Learning-Cybersecurity-blue?style=for-the-badge)
