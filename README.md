@@ -275,43 +275,43 @@ All seven screenshots will be added from the original screenshots captured durin
 
 Demonstrates the Kali Linux virtual machine within Oracle VirtualBox.
 
-![Screenshot 1](images/01-kali-virtual-machine.png)
+![Screenshot 1](Kali-linux-virtual-Machine.jpeg)
 
 ### 📸 Screenshot 2: VirtualBox Configuration
 
 Shows the virtual machine configuration within Oracle VirtualBox.
 
-![Screenshot 2](images/02-virtualbox-configuration.png)
+![Screenshot 2](Virtualbox%20configuration.jpeg)
 
 ### 📸 Screenshot 3: Network Configuration
 
 Demonstrates the network configuration used to establish connectivity.
 
-![Screenshot 3](images/03-network-configuration.png)
+![Screenshot 3](Network%20configuration.jpeg)
 
 ### 📸 Screenshot 4: Network Troubleshooting
 
 Shows the network troubleshooting activities performed during the configuration process.
 
-![Screenshot 4](images/04-network-troubleshooting.png)
+![Screenshot 4](Troubleshooting.jpeg)
 
 ### 📸 Screenshot 5: Network Connectivity Verification
 
 Provides evidence of the successful connectivity test.
 
-![Screenshot 5](images/05-network-connectivity.png)
+![Screenshot 5](Network%20connectivity%20verification.jpeg)
 
 ### 📸 Screenshot 6: Kali Linux System Updates
 
 Demonstrates the system update process.
 
-![Screenshot 6](images/06-system-updates.png)
+![Screenshot 6](Nat%20network.jpeg)
 
 ### 📸 Screenshot 7: Final Lab Environment
 
 Shows the completed Kali Linux environment following configuration and verification.
 
-![Screenshot 7](images/07-final-lab-environment.png)
+![Screenshot 7](Final%20lab%20environment.jpeg)
 
 ---
 
